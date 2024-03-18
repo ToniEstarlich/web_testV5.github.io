@@ -46,6 +46,10 @@ li  a:hover {
   background:  purple;
   box-shadow: 0 0 10px rgb(255, 129, 204);
 }
+
+.logo {
+  opacity: 0.3;
+}
 /*end navbar*/
 
 a {
