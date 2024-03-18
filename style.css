@@ -30,6 +30,9 @@ body
   color: #4b0f47;
 }
 
+.text_home {
+text-align: center;
+}
 
 li a {
   display: block;
